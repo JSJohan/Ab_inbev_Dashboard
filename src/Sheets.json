@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "automationdas",
+  "private_key_id": "a288e5a3da19ace080cb1161baf4fe19d26c3714",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC8tCRLmEFKqIYc\nwSu0SPGVlTltPVMGalOZbWvSStWbpK8pHETclL3MEav7Kx85s4FYkWwUbrlgnKxN\n87A4Ra2eTl7bTKIcm5b/Us4j4xSz3WSc98kb8nOc84/lkqtTQLTgAGXMs4ihx6Ay\n+wg4ixqknlSw9ZqrB8Zxi6lvle0S0rLtkpEneiNMUN625JxiR7/TdTV3zhbEItxR\nTAZrXmd4FH0X/qiUNGPHJhdOnJtSx1Wj9m2330dcFJ/QMCcxEbrQCH3QX8mpEk2t\nCDOawl3jpzYSN4I5Fx+GrdN69kurvHw4KVGU18Qx2d5YPMxGay9c6xv4pRShrP+u\nddvmGVFlAgMBAAECgf9WnFgMWlWdbrwfdooYtWIsxdEV0o/I4gR85zwVyUNBrNS4\nicERfTOf9nx5S9GJKlqzzAtPVYLAVSjAnpjDOzf08QOYpBPEDaXAisESt6dI5tTH\nNvOXYDCwWRoyxJ7eF1Tte0E+MykDGBzvSUj8qtwPspwsnI3g8jCi7PdXv/iQKljb\nvLPpkbBZx1copP4iUUVm6tRlXw7Mm2E6uScBuRs9xE8xchG9t49Ck1Sxc0hasWXM\nu+zKXny5Q1tBdQu7XpP+bSTlJVbcREMPS/LoWeJHp9xjPNhzD2qZ3jtbVpBW5DeD\nhZDaadQreUJnGCkFpw34JFl6IAKyrUGjWavjOTECgYEA/+ll8G55SZGw7MSkwZfM\nvWMXOMGcdrvgK01VMGYQz5u6lYFoKhx+lB1IZ2esllad3qfFkjOPFrsenu6yftVJ\n5SdSBi+D6yMa6skI7+EE4b1fRr19sS3NWfD9OP7gZnwUdaXPkMY3JTRmcQFVEP/+\n50/29BikUyWuGaae22ceCm0CgYEAvMTOzz1QJz+Y/hDIyMEW/rFRf9eGsi4HedCK\nKE+mrKLkJK3/lx3COniM4FaHflR0FPVeHwDy/ToD/ZJfloRFhm73h0S4f7w0H7p5\nQRoKMcmZVIwRjAGwdsygoIfqfmY4ycYewRRkT0kMF4yaP+xp74v7Fi+U75+JWNEj\nrBjPh9kCgYEAu2i3SH3+wIu7H4lahpOeUktQ5DWVWbZ4kf2OF2WHhiIrX/VmzQAV\nCm7vaRqZX3eLIVWH8GtlrGXYJNf1S8Dy3qgO/4yodPg+bBZRPypwoshGD84RUEGU\nkvtS1fyBZUwUx5toCEPAerSHGNa67zop+EetOFEbdfCwMQS+bTp023kCgYBPnwfI\nXAlB9M5YY8X8/4zucuZ4cPUslMOseuy7YhVgffiTDB1hpTi2pwBs47KU85Re/rvr\ngd/8NYtXWnUdLL+Sm52mnbLglga6V1IrxosEQw98nPQNxOykv10FOS8Mj5tmaD2y\nnSJOWvZRvImXauWoF7gZvIoqpHUvVE+imHh4yQKBgEF8AfgPdAyGImSA/+V+SeDf\ndqNg/ZGUr5GWw4tMA203iS4uEr19dUzTHANtQEPDk9bVSaH7MSNP7I2k3redCYlg\nQhtcUH2TkaUESqslEyPN0TvVFhr+Jfc/0uNHBRHGcEWbswrOaukBlsOa0qFTEb+g\nh91YHOLDus19Y/sJsFf8\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonsheets@automationdas.iam.gserviceaccount.com",
+  "client_id": "101448901679175520351",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonsheets%40automationdas.iam.gserviceaccount.com"
+}
